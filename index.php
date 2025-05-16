@@ -24,7 +24,7 @@ if (isset($_GET['search'])) {
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Contact Book - Home</title>
-  <link rel="stylesheet" href="assets/style.css" />
+  <link rel="stylesheet" href="style.css" />
 </head>
 <body>
   <div class="container">
@@ -76,7 +76,7 @@ if (isset($_GET['search'])) {
       </tbody>
     </table>
   </div>
-  <script src="assets/script.js"></script>
+  <script src="script.js"></script>
 </body>
 </html>
 
